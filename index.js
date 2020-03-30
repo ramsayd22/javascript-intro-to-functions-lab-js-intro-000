@@ -5,5 +5,5 @@ function whisper(string){
   return string.toLowerCase();
 }
 function longShout(string){
-  console.toUpperCase();
+  console.(aWord.toUpperCase));
 }
